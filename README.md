@@ -12,6 +12,5 @@
 2. Update the Tool
 <<<<<<< HEAD
 3. Run "MultiTool.exe" and follow the steps
-=======
-3. Run "MultiTool.exe" and follow the steps
->>>>>>> d66a0cec72a5a4a2f677e216a4a2e6b2b2978666
+
+![Aperçu de la commande](config/screenshot-cmd.png)
