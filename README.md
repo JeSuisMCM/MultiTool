@@ -11,10 +11,3 @@
 1. Extract the .rar on your desktop
 2. Update the Tool
 3. Run "MultiTool.exe" and follow the steps
-
-
-
-
-
-
-https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/mcmme/Desktop/MultiTool%20-%20By%20MCM/config/screenshot-cmd.png?version%3D1729796144807
