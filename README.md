@@ -14,4 +14,4 @@
 
 ------------------------------------------------------------
 
-!(config/screenshot-cmd.png)
+![Image](config/screenshot-cmd.png)
