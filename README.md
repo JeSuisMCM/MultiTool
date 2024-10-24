@@ -11,3 +11,6 @@
 1. Extract the .rar on your desktop
 2. Update the Tool
 3. Run "MultiTool.exe" and follow the steps
+
+![alt text](config/screenshot-cmd.png)
+
