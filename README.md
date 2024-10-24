@@ -10,7 +10,6 @@
 
 1. Extract the ".zip" on your desktop
 2. Update the Tool
-<<<<<<< HEAD
 3. Run "MultiTool.exe" and follow the steps
 
 ![Aperçu de la commande](config/screenshot-cmd.png)
