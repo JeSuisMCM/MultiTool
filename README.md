@@ -12,4 +12,5 @@
 2. Update the Tool
 3. Run "MultiTool.exe" and follow the steps
 
-   C:\Users\mcmme\Desktop\MultiTool - By MCM\config\screenshot-cmd.png
+
+C:\Users\mcmme\Desktop\MultiTool - By MCM\config\screenshot-cmd.png
