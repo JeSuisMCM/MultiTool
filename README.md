@@ -1,4 +1,4 @@
-//MULTI TOOL - Par MCM//
+// MULTI TOOL - Par MCM //
 
 1) Extraire le ".zip" sur son bureau
 2) Mettre à jour le Tool
@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------
 
-//MULTI TOOL - By MCM//
+// MULTI TOOL - By MCM //
 
 1. Extract the ".zip" on your desktop
 2. Update the Tool
