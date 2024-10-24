@@ -12,9 +12,4 @@
 2. Update the Tool
 3. Run "MultiTool.exe" and follow the steps
 
-
-
-
-
-
-https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/mcmme/Desktop/MultiTool%20-%20By%20MCM/config/screenshot-cmd.png?version%3D1729796144807
+![screenshot-cmd](https://github.com/user-attachments/assets/e26e34d3-8f83-425f-85bb-206e84378cd2)
